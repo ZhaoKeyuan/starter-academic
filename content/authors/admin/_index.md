@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhao Keyuan
+title: 赵科渊
 
 # Username (this should match the folder name)
 authors:
