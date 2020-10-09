@@ -14,7 +14,7 @@ role: PhD Candidate of Mechanical Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 同济大学
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
