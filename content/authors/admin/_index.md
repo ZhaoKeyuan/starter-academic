@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-    - course: 机械工程
+  - course: 机械工程
     institution: 太原科技大学
     year: 2018
   - course: 材料成型及控制工程
